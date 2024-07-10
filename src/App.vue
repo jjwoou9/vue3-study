@@ -37,7 +37,7 @@ import { ref } from 'vue';
     },
     // methods: {
     //   logText() {
-    //     this.pas
+    //     this.password
     //   }
     // }
 
